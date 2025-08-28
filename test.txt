@@ -9,3 +9,4 @@ connection
 connection good, nothing written 
 still nothing written
 testing
+prints?
