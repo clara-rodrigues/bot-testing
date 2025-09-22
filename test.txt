@@ -29,3 +29,4 @@ test report structure 2
 test report structure 3
 test report structure 4
 test report structure 5
+test report structure 6
