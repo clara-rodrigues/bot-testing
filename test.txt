@@ -22,3 +22,4 @@ github app updated
 part1
 infrarun?
 checkrun with report
+fix report display
