@@ -24,3 +24,4 @@ infrarun?
 checkrun with report
 fix report display
 again
+test report structure
