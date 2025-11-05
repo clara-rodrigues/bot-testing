@@ -30,3 +30,4 @@ class aptly (
 
   create_resources('::aptly::mirror', $aptly_mirrors)
 }
+
