@@ -35,7 +35,7 @@ class aptly (
 problem
 problem 2
 problem 3
-priblem 4
+problem 4
 problem 5
 problem 6
 problem 7
